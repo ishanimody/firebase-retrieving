@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "478813724536",
+    "project_id": "retrieve-44f69",
+    "storage_bucket": "retrieve-44f69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478813724536:android:528a365bbd51913a62728d",
+        "android_client_info": {
+          "package_name": "com.example.firebase_retrieve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478813724536-dl4scl9qq2ln2utaj2rkdpul8ike4v3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-VB4KdaZW1I_L5LU_K2magllHBhDgyP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478813724536-dl4scl9qq2ln2utaj2rkdpul8ike4v3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
